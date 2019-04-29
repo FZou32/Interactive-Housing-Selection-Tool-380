@@ -1,6 +1,6 @@
 # Name: Code for Interactive Tool
 # Purpose: Prompt the user for the buffer distance for parks, day care and subway entrance.
-# Author: Faith Zou, Garret Hiles
+# Author: Faith Zou, Garrett Hiles
 # Created: 04/25/2019
 
 try:
